@@ -1,0 +1,66 @@
+{
+    "Products": [
+        {
+            "ProductReference": "DECSPO124d48f1h9t1", 
+            "ProductSupplier": "Decathlon",
+            "stockQuantity": 40,
+            "LocationCode":"LEHM6L12.8"
+            
+        },
+        {
+            "ProductReference": "DECSPO124d48f1h9t5",
+            "ProductSupplier": "Decathlon",
+            "stockQuantity": 40,    
+            "LocationCode":"LEHM6L12.8"
+        },
+        {
+            "ProductReference": "DECSPO124d48f1h9t16", 
+            "ProductSupplier": "Decathlon",
+            "stockQuantity": 40,
+            "LocationCode":"LEHM6L12.8"
+            
+        },
+        {
+            "ProductReference": "DECSPO124d48f1h9t7", 
+            "ProductSupplier": "Decathlon",
+            "stockQuantity": 40,
+            "LocationCode":"LEHM6L12.8"
+            
+        },
+        {
+            "ProductReference": "DECSPO124d48f1h9t9", 
+            "ProductSupplier": "Decathlon",
+            "stockQuantity": 40,
+            "LocationCode":"LEHM6L12.8"
+            
+        },
+        {
+            "ProductReference": "DECSPO124d48f1h9t0", 
+            "ProductSupplier": "Decathlon",
+            "stockQuantity": 40,
+            "LocationCode":"LEHM6L12.8"
+            
+        },
+        {
+            "ProductReference": "DECSPO124d48f1h9t40", 
+            "ProductSupplier": "Decathlon",
+            "stockQuantity": 40,
+            "LocationCode":"LEHM6L12.8"
+            
+        },
+        {
+            "ProductReference": "DECSPO124d48f1h9t18", 
+            "ProductSupplier": "Decathlon",
+            "stockQuantity": 40,
+            "LocationCode":"LEHM6L12.8"
+            
+        },
+        {
+            "ProductReference": "DECSPO124d48f1h9t17", 
+            "ProductSupplier": "Decathlon",
+            "stockQuantity": 40,
+            "LocationCode":"LEHM6L12.8"
+            
+        }
+    ]
+}
