@@ -12,7 +12,8 @@
                 "Row": 12,
                 "Section": 8,
                 "LocationCode":"LEHM6L12.8"
-            }
+            },
+            "AddingDate": "04/10/2024"
         },
         {
             "ProductReference": "DECSPO124d48f1h9t2",
@@ -26,7 +27,8 @@
                 "Row": 12,
                 "Section": 8,
                 "LocationCode":"LEHM6L12.8"
-            }
+            },
+            "AddingDate": "01/10/2024"
         },
         {
             "ProductReference": "DECSPO124d48f1h9t3",
@@ -40,7 +42,8 @@
                 "Row": 12,
                 "Section": 8,
                 "LocationCode":"LEHM6L12.8"
-            }
+            },
+            "AddingDate": "01/10/2024"
         },
         {
             "ProductReference": "DECSPO124d48f1h9t4",
@@ -54,7 +57,8 @@
                 "Row": 12,
                 "Section": 8,
                 "LocationCode":"LEHM6L12.8"
-            }
+            },
+            "AddingDate": "01/10/2024"
         },
         {
             "ProductReference": "DECSPO124d48f1h9t5",
@@ -68,7 +72,67 @@
                 "Row": 12,
                 "Section": 8,
                 "LocationCode":"LEHM6L12.8"
-            }
+            },
+            "AddingDate": "01/10/2024"
+        },
+        {
+            "ProductReference": "DECSPO124d48f1h9t5",
+            "ProductSupplier": "Decathlon",
+            "stockQuantity": 40,
+            "Description" : "Decathlon objet 5",
+            "StorageLocation": {
+                "Location" : "Le Havre",
+                "Module": "M6",
+                "Aisle": "L",
+                "Row": 12,
+                "Section": 8,
+                "LocationCode":"LEHM6L12.8"
+            },
+            "AddingDate": "01/10/2024"
+        },{
+            "ProductReference": "DECSPO124d48f1h9t5",
+            "ProductSupplier": "Decathlon",
+            "stockQuantity": 40,
+            "Description" : "Decathlon objet 5",
+            "StorageLocation": {
+                "Location" : "Le Havre",
+                "Module": "M6",
+                "Aisle": "L",
+                "Row": 12,
+                "Section": 8,
+                "LocationCode":"LEHM6L12.8"
+            },
+            "AddingDate": "01/10/2024"
+        },
+        {
+            "ProductReference": "DECSPO124d48f1h9t5",
+            "ProductSupplier": "Decathlon",
+            "stockQuantity": 40,
+            "Description" : "Decathlon objet 5",
+            "StorageLocation": {
+                "Location" : "Le Havre",
+                "Module": "M6",
+                "Aisle": "L",
+                "Row": 12,
+                "Section": 8,
+                "LocationCode":"LEHM6L12.8"
+            },
+            "AddingDate": "01/10/2024"
+        },
+        {
+            "ProductReference": "DECSPO124d48f1h9t5",
+            "ProductSupplier": "Decathlon",
+            "stockQuantity": 40,
+            "Description" : "Decathlon objet 5",
+            "StorageLocation": {
+                "Location" : "Le Havre",
+                "Module": "M6",
+                "Aisle": "L",
+                "Row": 12,
+                "Section": 8,
+                "LocationCode":"LEHM6L12.8"
+            },
+            "AddingDate": "04/10/2024"
         }
     ]
 }
